@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InfSys:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InfSys_jar</output-path>
+    <root id="archive" name="InfSys.jar">
+      <element id="module-output" name="InfSys" />
+    </root>
+  </artifact>
+</component>
